@@ -1,0 +1,12 @@
+[
+  { "id": 1,  "localityEn": "Wasliganj",   "localityHi": "वासलीगंज",   "centerLat": 25.1478, "centerLng": 82.5680, "radiusMeters": 550, "targetHouseholds": 40 },
+  { "id": 2,  "localityEn": "Dankinganj",  "localityHi": "डंकीनगंज",   "centerLat": 25.1478, "centerLng": 82.5560, "radiusMeters": 550, "targetHouseholds": 40 },
+  { "id": 3,  "localityEn": "Ghantaghar",  "localityHi": "घंटाघर",     "centerLat": 25.1375, "centerLng": 82.5680, "radiusMeters": 550, "targetHouseholds": 40 },
+  { "id": 4,  "localityEn": "Ganeshganj",  "localityHi": "गणेशगंज",    "centerLat": 25.1375, "centerLng": 82.5800, "radiusMeters": 550, "targetHouseholds": 40 },
+  { "id": 5,  "localityEn": "Sangmohal",   "localityHi": "संगमोहाल",   "centerLat": 25.1478, "centerLng": 82.5800, "radiusMeters": 550, "targetHouseholds": 40 },
+  { "id": 6,  "localityEn": "Civil Lines", "localityHi": "सिविल लाइंस", "centerLat": 25.1375, "centerLng": 82.5560, "radiusMeters": 550, "targetHouseholds": 40 },
+  { "id": 7,  "localityEn": "Bharuhana",   "localityHi": "भरुहना",     "centerLat": 25.1375, "centerLng": 82.5440, "radiusMeters": 550, "targetHouseholds": 40 },
+  { "id": 8,  "localityEn": "Tarkapur",    "localityHi": "तरकापुर",    "centerLat": 25.1272, "centerLng": 82.5620, "radiusMeters": 600, "targetHouseholds": 40 },
+  { "id": 9,  "localityEn": "Ramaipatti",  "localityHi": "रमईपट्टी",   "centerLat": 25.1478, "centerLng": 82.5440, "radiusMeters": 550, "targetHouseholds": 40 },
+  { "id": 10, "localityEn": "Vindhyachal", "localityHi": "विंध्याचल",  "centerLat": 25.1590, "centerLng": 82.5070, "radiusMeters": 800, "targetHouseholds": 40 }
+]

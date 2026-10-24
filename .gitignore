@@ -1,0 +1,14 @@
+target/
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Secrets
+.env
+application-local.properties
+
+# Local upload storage
+uploads/
+
+*.log
